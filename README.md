@@ -1,16 +1,9 @@
 # Data-Analysis-Portfolio
-🚀 Project Completed!
-I'm excited to share that I’ve successfully completed the “SQL for Data Analysis Full Portfolio Project with Practical [1 Hour] | End-to-End SQL Project 2024”!
 
-This project gave me hands-on experience in using SQL for real-world data analysis, where I worked through the entire data analysis lifecycle—from importing datasets and cleaning data, to writing complex queries for insights and generating meaningful business conclusions.
 
-Key highlights of the project included:
-✅ Writing optimized SQL queries
-✅ Performing JOINS, CTEs, subqueries, and aggregations
-✅ Deriving actionable insights from raw data
-✅ Creating a structured, portfolio-ready report
+👋 About Me – Aryan Giri | Data Analyst Enthusiast from NIT Agartala
+Hi, I'm Aryan Giri, a passionate Data Analyst enthusiast currently pursuing my studies at NIT Agartala. I have a strong interest in uncovering patterns, solving real-world problems, and driving decisions through data. My journey in the data field is rooted in curiosity, critical thinking, and a desire to make sense of information in meaningful ways.
 
-This was a great opportunity to strengthen my SQL skills and build an end-to-end project that reflects how data is used to drive decisions in industries today. I’m looking forward to applying these skills in more advanced analytics and real-world problem-solving!
+I'm actively building skills in SQL, Python, data visualization, and statistical analysis, while also working on end-to-end projects that reflect real industry scenarios. My long-term goal is to evolve into a Data Scientist, capable of applying advanced analytics and machine learning to deliver data-driven solutions.
 
-📊 #SQL #DataAnalysis #PortfolioProject #DataAnalytics #LearningByDoing #SQLProject #EndToEndProject #2024Goals
-
+This GitHub serves as a growing collection of my practical learning, project work, and commitment to becoming a professional in the world of data.
